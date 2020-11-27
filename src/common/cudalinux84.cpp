@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "../../include/cudaminer.h"
+#include "../../include/cudalinux84.h"
 #include "../../argon2-gpu/include/argon2-cuda/processingunit.h"
 #include "../../argon2-gpu/include/argon2-cuda/programcontext.h"
 #include "../../argon2-gpu/include/argon2-cuda/device.h"
