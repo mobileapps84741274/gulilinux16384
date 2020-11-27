@@ -1,7 +1,7 @@
 //
 // Created by guli on 31/01/18.
 //
-#include "../../include/minersettings.h"
+#include "../../include/linuxsettings.h"
 
 string *MinerSettings::getPoolAddress() const {
     return poolAddress;
