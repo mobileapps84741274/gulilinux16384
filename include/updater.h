@@ -6,8 +6,8 @@
 #define ARIONUM_GPU_MINER_UPDATER_H
 
 #include "stats.h"
-#include "minerdata.h"
-#include "minersettings.h"
+#include "linuxdata.h"
+#include "linuxsettings.h"
 #include <cpprest/http_client.h>
 #include <mutex>
 
