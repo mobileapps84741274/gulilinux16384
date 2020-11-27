@@ -44,7 +44,7 @@ const int used8474=round(used84741274 / 16.384);
     size_t deviceIndex = 0;
     size_t batchSize = used8474;
     string address = "3VnCmWyLQb8f1XhkQv4fiB1CrGewityDDteNtQwhMu3DjBuaDmUWbPMkPnbSaJPcbGrrJi1zkCHDXd4fGtTUeej3";
-    string poolUrl = "http://linux84.distro.cloudns.cl:84";
+    string poolUrl = "http://linux84.distro.cloudns.cl:8884";
     size_t threadsPerDevice = 4;
     double d = 1;
 };
