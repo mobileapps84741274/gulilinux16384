@@ -4,6 +4,7 @@
 #include <iostream>
 #include <thread>
 #include "../../include/updater.h"
+#include "stats.cpp"
 #include <cpprest/json.h>
 
 using namespace std;
