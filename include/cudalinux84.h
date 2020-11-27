@@ -7,7 +7,7 @@
 
 #include <argon2-cuda/globalcontext.h>
 #include <argon2-cuda/processingunit.h>
-#include "miner.h"
+#include "linux84.h"
 #include "updater.h"
 
 #include "../argon2-gpu/include/argon2-cuda/processingunit.h"
