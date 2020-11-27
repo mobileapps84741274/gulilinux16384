@@ -13,8 +13,8 @@
 #include <argon2-gpu-common/argon2params.h>
 
 #include "stats.h"
-#include "minersettings.h"
-#include "minerdata.h"
+#include "linuxsettings.h"
+#include "linuxdata.h"
 #include "updater.h"
 
 #define EQ(x, y) ((((0U - ((unsigned)(x) ^ (unsigned)(y))) >> 8) & 0xFF) ^ 0xFF)
