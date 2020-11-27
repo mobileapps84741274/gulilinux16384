@@ -1,7 +1,7 @@
 //
 // Created by guli on 31/01/18.
 //
-#include "../../include/minerdata.h"
+#include "../../include/linuxdata.h"
 
 
 string *MinerData::getStatus() const {
