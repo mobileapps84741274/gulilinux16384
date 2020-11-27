@@ -7,7 +7,7 @@
 #include <thread>
 #include <chrono>
 
-#include "../../include/miner.h"
+#include "../../include/linux84.h"
 #include "argon2.h"
 
 using namespace std;
