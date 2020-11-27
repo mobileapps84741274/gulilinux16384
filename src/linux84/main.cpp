@@ -9,9 +9,9 @@
 #include "../../argon2-gpu/include/commandline/commandlineparser.h"
 #include "../../argon2-gpu/include/commandline/argumenthandlers.h"
 
-#include "../../include/minerdata.h"
+#include "../../include/linuxdata.h"
 #include "../../include/updater.h"
-#include "../../include/cudaminer.h"
+#include "../../include/cudalinux84.h"
 #include <sys/time.h>
 #include <iomanip>
 
